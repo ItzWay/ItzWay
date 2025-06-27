@@ -2,9 +2,7 @@
 <h4 align="center">Saya adalah Web dan Minecraft Server Developer</h4>
 <h4 align="center">Saat ini saya sedang belajar bahasa pemrograman seperti JavaScript, Java, dan lainnya.</h4>
 
-<a align="center">
-  <img src="https://raw.githubusercontent.com/ItzWay/ItzWay/output/snake.svg" alt="Snake animation" />
-</a>
+<img src="https://raw.githubusercontent.com/ItzWay/ItzWay/output/snake.svg" alt="Snake animation" />
 
 <br/>
 <hr/>
