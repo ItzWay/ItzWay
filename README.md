@@ -7,19 +7,14 @@
 <br/>
 <hr/>
 <p align="center">🛠️ Skill Saya</p>
-<div align="center">
-  <img src="https://cdn.simpleicons.org/lua/2C2D72" height="40" alt="lua logo"  />
-  <img width="60" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
-  <img width="60" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
-  <img width="60" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
-  <img width="60" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
-  <img width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"alt="java logo"  />
-</div>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/lua/2C2D72" style="height:60px; margin: 0 22px;" alt="lua logo" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" style="height:60px; margin: 0 22px;" alt="html5 logo" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" style="height:60px; margin: 0 22px;" alt="css3 logo" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" style="height:60px; margin: 0 22px;" alt="javascript logo" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" style="height:60px; margin: 0 22px;" alt="mysql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="height:60px; margin: 0 22px;" alt="java logo" />
+</p>
 
 <br/>
 <hr/>
