@@ -70,9 +70,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="46" alt="Java" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/go/00ADD8" height="46" alt="Golang" />
-</p>
-
-<p align="center">
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="46" alt="MySQL" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="46" alt="PostgreSQL" />
