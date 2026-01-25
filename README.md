@@ -56,10 +56,6 @@
 <br/>
 <hr/>
 
-<p align="center">
-  <b>Backend & Database</b>
-</p>
-
 <p align="center"><b>Backend & Database</b></p>
 
 <p align="center">
