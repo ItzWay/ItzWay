@@ -41,18 +41,47 @@
 <br/>
 <hr/>
 
+<p align="center"><b>Styling & UI Frameworks</b></p>
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="46" alt="Tailwind CSS" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/daisyui/5A0EF8" height="46" alt="DaisyUI" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="46" alt="Bootstrap" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/sass/CC6699" height="46" alt="Sass" />
+</p>
+
+<br/>
+<hr/>
+
 <p align="center">
   <b>Backend & Database</b>
 </p>
 
+<p align="center"><b>Backend & Database</b></p>
+
 <p align="center">
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="46" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="46" alt="Node.js" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/express/000000" height="46" alt="Express.js" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="46" alt="PHP" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/python/3776AB" height="46" alt="Python" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="46" alt="Java" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/go/00ADD8" height="46" alt="Golang" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="46" alt="MySQL" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="46" alt="PostgreSQL" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="46" alt="MongoDB" />
 </p>
 
 <br/>
