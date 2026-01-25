@@ -97,6 +97,17 @@
   <img src="https://cdn.simpleicons.org/github/181717" height="46" alt="GitHub" />
 </p>
 
+<p align="center">
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="46" alt="Docker" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="46" alt="Prisma ORM" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nginx/009639" height="46" alt="Nginx" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/linux/FCC624" height="46" alt="Linux" />
+</p>
+
+
 
 <hr/>
 
