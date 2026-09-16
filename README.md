@@ -8,25 +8,26 @@
   🌱 Saat ini saya <b>masih aktif belajar</b> dan mengeksplorasi berbagai teknologi pemrograman
 </h4>
 
+<p align="center">
+  <a href="https://github.com/ItzWay">
+    <img src="https://img.shields.io/github/followers/ItzWay?label=Followers&style=for-the-badge&logo=github&color=181717" />
+  </a>
+  <a href="https://github.com/ItzWay?tab=repositories">
+    <img src="https://img.shields.io/github/stars/ItzWay?affiliations=OWNER&style=for-the-badge&logo=github&color=yellow" />
+  </a>
+  <a href="https://itzway-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+</div>
 <br/>
 
-<img
-  src="https://raw.githubusercontent.com/ItzWay/ItzWay/output/snake.svg"
-  alt="Snake animation"
-  width="100%"
-/>
-
----
 
 <h3 align="center">🛠️ Skill & Teknologi yang Sedang Dipelajari</h3>
 
-<p align="center">
-  <i>Tidak semua sudah expert — fokus belajar & praktik 🚧</i>
-</p>
-
 <hr/>
 
-<h4 align="center">🌐 Web Development</h4>
+🌐 Web Development
 
 <p align="center">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="44" />
@@ -40,7 +41,7 @@
 
 <hr/>
 
-<h4 align="center">🎨 Styling & UI Frameworks</h4>
+🎨 Styling & UI Frameworks
 
 <p align="center">
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="44" />
@@ -51,7 +52,7 @@
 
 <hr/>
 
-<h4 align="center">⚙️ Backend & Database</h4>
+⚙️ Backend & Database
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="44" />
@@ -67,7 +68,7 @@
 
 <hr/>
 
-<h4 align="center">🎮 Game Server, Bot & Tools</h4>
+🎮 Game Server, Bot & Tools
 
 <p align="center">
   <img src="https://cdn.simpleicons.org/lua/2C2D72" height="44" />
@@ -80,24 +81,37 @@
   <img src="https://cdn.simpleicons.org/linux/FCC624" height="44" />
 </p>
 
+<p align="center">
+  <i>Tidak semua sudah expert — fokus belajar & praktik 🚧</i>
+</p>
+
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+🌱 Currently Learning
 
 <div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ItzWay&theme=radical&area=true"
-    height="260"
-  />
+
+|   Technology  |   Progress   |
+| :-----------: | :----------: |
+|   🐘 Laravel  | 🟡 Exploring |
+|   🐍 Python   | 🟡 Exploring |
+|     ☕ Java    | 🟡 Exploring |
+|   🐳 Docker   | 🟡 Exploring |
+|    ⚛️ React   |  🟢 Learning |
+|   ▲ Next.js   |  🟢 Learning |
+| 📘 TypeScript |  🟢 Learning |
 </div>
 
-<br/>
+## 🐍 Contribution Snake
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ItzWay&show_icons=true&theme=radical"
-    height="150"
-  />
+
+<img
+src="https://raw.githubusercontent.com/ItzWay/ItzWay/output/snake.svg"
+alt="GitHub Contribution Snake"
+width="100%"
+/>
+
 </div>
 
 ---
